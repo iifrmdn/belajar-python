@@ -2,7 +2,7 @@
 
 ### Author
 
-[@arifnoerramadhan](https://www.instagram.com/arifnoerramadhan/)
+  - [@arifnoerramadhan](https://www.instagram.com/arifnoerramadhan/)
 
 ### Kelebihan Python
 
