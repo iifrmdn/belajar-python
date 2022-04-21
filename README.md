@@ -1,5 +1,9 @@
 # Python
 
+## Author
+
+[@arifnoerramadhan](https://www.instagram.com/arifnoerramadhan/)
+
 ### Kelebihan Python
 
 - Mudah dipelajari, sintaksnya cukup sederhana dan mudah dimengerti
@@ -18,10 +22,6 @@
 - Memiliki banyak batasan desain dikarenakan python diketik secara dinamis
 - Kecepatan yang lebih lambat dibandingkan dengan bahasa pemrograman lainnya
 
-
-## Author
-
-[@arifnoerramadhan](https://www.instagram.com/arifnoerramadhan/)
 
 ## Documentation
 
